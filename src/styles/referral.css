@@ -1,0 +1,87 @@
+.referral {
+    padding: 56px;
+}
+.referral-input {
+    margin: 0px !important;
+}
+
+.referral-input h4 {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #DDD9D7;
+}
+.referral-input p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+    /* or 28px */
+
+
+    color: #FFFFFF;
+
+    opacity: 0.6;
+    margin: 16px 0px !important;
+}
+.referral .linkCopy, .referralNumberBtn {
+    border-radius: 16px !important;
+    padding: 10px 20px !important;
+
+    /* font-family: 'Outfit'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    /* Yellow gradient */
+
+    /* background: linear-gradient(67.84deg, #FAED4E -1.82%, #F6B833 106.59%); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    /* background-clip: text; */
+    /* text-fill-color: transparent; */
+}
+.referral .primary-button {
+    padding: 15px 83px !important;
+}
+
+.referral .justify-content-center p {
+    text-align: center;
+    color: #E9E732;
+    margin-top: 38px;
+}
+.referral .input-group {
+    padding: 12px;
+    border-radius: 14px;
+}
+.referral .input-group p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    /* White */
+    
+    color: #FFFFFF;
+
+    margin: 0px;
+    padding: 8px;
+}
+.referral .input-group button {
+    position: static !important;
+}

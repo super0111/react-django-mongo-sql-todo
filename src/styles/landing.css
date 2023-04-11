@@ -1,0 +1,132 @@
+.landing-title {
+    text-align: center;
+}
+.landing-title h2{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 86px;
+    /* or 143% */
+    
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    /* background: -webkit-linear-gradient(94.01deg, #00FF01 -11.27%, #92C589 21.09%, #FFFFFF 59.29%, #FFFFFF 108.68%); */
+    /* background: -webkit-linear-gradient( left,rgb(26, 241, 6), #afd6af,rgb(203, 218, 203),rgb(203, 218, 203)); */
+    background: -webkit-linear-gradient(left, #00FF01, #73c065, #FFFFFF, #FFFFFF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+}
+
+p.landing-title-description {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.landing-title button.primary-button {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 23px !important;
+    /* identical to box height */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+    padding: 25px 70px;
+}
+
+.landing-card p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    /* White */
+
+    color: #FFFFFF;
+}
+.landing-card h4 {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    background: linear-gradient(110.7deg, #00FF01 -9.14%, #E4D120 136.77%), #D9D9D9;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+.landing-card-container {
+    /* gap: 76px; */
+}
+.landing-card {
+    border: 1px solid #47EA48;
+
+    /* border-image-source: conic-gradient(from 74.27deg at 50.21% 57.21%, #47EA48 0deg, #BEEABE 134.04deg, #47EA48 273.14deg, #47EA48 360deg); */
+    background: linear-gradient(181.33deg, rgba(255, 255, 255, 0.28) 2.26%, rgba(255, 255, 255, 0.03) 97.74%);
+    backdrop-filter: blur(30px);
+    /* Note: backdrop-filter has minimal browser support */
+
+    border-radius: 20px !important;
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+    min-width: 325px;
+    text-align: center;
+}
+
+.landing-referral h1 {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 86px;
+    /* or 172% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.landing-referral p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    /* or 175% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.landing-referral .primary-button-container {
+    margin-left: 18px !important;
+}

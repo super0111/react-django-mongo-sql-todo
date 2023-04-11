@@ -1,0 +1,12 @@
+.reward {
+    padding: 46px 56px;
+}
+.reward-input {
+    margin: 0px !important;
+}
+.reward-button-container {
+    padding-top: 32px;
+}
+.reward .primary-button {
+    padding: 15px 83px;
+}

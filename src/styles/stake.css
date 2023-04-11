@@ -1,0 +1,136 @@
+.stake {
+    padding: 102px 56px 0px 56px;
+    position: relative;
+    height: 100%;
+}
+.stake-img {
+    visibility: visible;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.notification {
+    padding: 16px 24px;
+    gap: 12px;
+    margin-top: 70px !important;
+}
+.notification p {
+    padding: 12px 0px;
+    margin: 0px !important;
+}
+.stake-content {
+    /* margin-top: 32px !important; */
+    margin-top: 56px !important;
+}
+.stake-content p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    color: #DDD9D7;
+
+}
+.stake-text h4 {
+    margin: 0px !important;
+}
+.stake-text h5 {
+    color: #DDD9D7;  
+}
+.stake-input > p {
+    margin: 0px !important;
+    text-align: right !important;
+}
+.stake-input .input-group {
+    padding: 24px 0px !important;
+}
+.input-group {
+    padding-top: 12px !important;
+}
+.input-group input{
+    padding: 17px 19px !important;
+
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+
+    color: #E4D120;
+    border-right: none;
+    border-radius: 10px;
+}
+.stake-button-container {
+    padding: 24px !important;
+}
+.stake-input > p {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+    /* White 80% */
+
+    color: rgba(255, 255, 255, 0.8);
+}
+.stake-input .input-group-text {
+    background: transparent;
+    border-left: none;
+    border-color: grey !important;
+    border-radius: 10px;    
+}
+
+.stake-input .input-group-text div {
+    /* background: linear-gradient(67.84deg, rgba(250, 237, 78, 0.12) -1.82%, rgba(246, 184, 51, 0.12) 106.59%); */
+    border-radius: 16px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+    padding: 10px;
+
+    /* Yellow gradient */
+    color: #F9DA44;
+    /* background: #FAED4E; */
+    background: #2C2618;
+    text-transform: uppercase;  
+    /* background: linear-gradient(67.84deg, #FAED4E -1.82%, #F6B833 106.59%); */
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+    /* background-clip: text; */
+    /* text-fill-color  : transparent; */
+
+}
+
+.stake .primary-button {
+    padding: 15px 83px;
+}
+
+
+.stake .stake-title .stake-text h4 {
+    /* margin-top: 34px !important; */
+    /* margin-left: 34px !important; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+
+}
+.stake .stake-title {
+    gap: 24px;
+}

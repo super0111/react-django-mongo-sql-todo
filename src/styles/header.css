@@ -1,0 +1,32 @@
+.header {
+    padding: 60px 80px !important;
+}
+.primary-button-container {
+    margin-top: 10px !important;
+}
+a.nav-text {
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.primary-button {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    line-height: 23px !important;
+    font-style: normal;
+    padding: 15px 50px;
+}
+#responsive-navbar-nav {
+    justify-content: end;
+    width: 100%;
+}
+
+.logo img.main {
+    width: 252px;
+    height: 47.59px;
+}
